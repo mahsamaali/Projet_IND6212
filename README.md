@@ -29,8 +29,8 @@ L'objectif principal est de déterminer s'il existe une corrélation significati
 Les résultats de cette étude sont présentés dans le notebook Jupyter disponible dans ce dépôt. Ils incluent des visualisations des tendances des sentiments et des prix, ainsi que des analyses statistiques détaillées.
 
 ## Structure du Dépôt
-
-- `data/`: Contient les jeux de données utilisés, y compris les tweets collectés et les prix historiques du pétrole.
+- `data/`: Contient les jeux de données bruts collectés, y compris les tweets et les prix historiques du pétrole.
+- `assets/`: Contient les jeux de données utilisés après nettoyage, ainsi que différentes données sur les périodes de prix du pétrole.
 - `notebooks/`: Inclut le notebook Jupyter avec le code et les analyses détaillées.
 - `scripts/`: Contient les scripts Python pour la collecte, le prétraitement et l'analyse des données.
 - `README.md`: Ce fichier, fournissant une vue d'ensemble du projet.
